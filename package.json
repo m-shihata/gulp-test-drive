@@ -1,0 +1,29 @@
+{
+  "name": "gulp-test-drive",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "gulp": "^4.0.2",
+    "gulp-cache": "^1.1.3",
+    "gulp-cache-bust": "^1.4.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-nunjucks": "^5.1.0",
+    "gulp-nunjucks-render": "^2.2.3",
+    "gulp-remove-empty-lines": "^0.1.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-useref": "^5.0.0",
+    "gulp4-run-sequence": "^1.0.1",
+    "node-sass": "^8.0.0"
+  },
+  "dependencies": {}
+}
